@@ -1,0 +1,6 @@
+[
+  { "text": "Home", "target": "/" },
+  { "text": "Event", "to": "Event", "target": "/" },
+  { "text": "Blog", "target": "/RecentPostPage" },
+  { "text": "About us", "to": "About", "target": "/" }
+]
